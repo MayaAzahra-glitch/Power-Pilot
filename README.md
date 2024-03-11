@@ -1,4 +1,4 @@
-<h1 align="center"> Theme1 Demo</h1>
+<h1 align="center"> Tamplate Bootstrap</h1>
 
 <h2>Index page</h4>
 <p align="center" >   
